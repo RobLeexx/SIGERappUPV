@@ -21,6 +21,27 @@
             "precio_por_hoja": 40.0
         }
     ],
-    "reporteros": [],
-    "solicitudes": []
+    "reporteros": [
+        {
+            "dni": "56276545E",
+            "nombre": "ROberto",
+            "apellidos": "MIllan",
+            "direccion": "pacos",
+            "ciudad": "valencia",
+            "codigo_postal": "46025",
+            "telefono": "68089253",
+            "categoria_nivel": null
+        }
+    ],
+    "solicitudes": [
+        {
+            "identificador": 1,
+            "reportero_dni": "56276545E",
+            "fecha": "05/05/2026",
+            "equipo_fotografico": "no",
+            "resumen_cv": "alsjnfalksjfn",
+            "estado": "Pendiente",
+            "categoria_asignada": null
+        }
+    ]
 }

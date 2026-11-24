@@ -1,0 +1,6 @@
+.scannerwork/
+__pycache__/
+*.py[cod]
+
+sonar-project.properties
+SIGER/datos_siger.json
