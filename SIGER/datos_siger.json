@@ -1,0 +1,26 @@
+{
+    "categorias": [
+        {
+            "nivel": 1,
+            "nombre": "Categoría 1 (Básica)",
+            "precio_por_hoja": 15.0
+        },
+        {
+            "nivel": 2,
+            "nombre": "Categoría 2 (Estándar)",
+            "precio_por_hoja": 22.0
+        },
+        {
+            "nivel": 3,
+            "nombre": "Categoría 3 (Avanzada)",
+            "precio_por_hoja": 30.0
+        },
+        {
+            "nivel": 4,
+            "nombre": "Categoría 4 (Especialista)",
+            "precio_por_hoja": 40.0
+        }
+    ],
+    "reporteros": [],
+    "solicitudes": []
+}
